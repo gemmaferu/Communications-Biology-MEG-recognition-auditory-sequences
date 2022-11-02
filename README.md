@@ -10,10 +10,10 @@ Auditory recognition is a crucial cognitive process that relies on the organizat
 
 To use this code, you will need to download the following:
 
-(1) LBPD functions (https://github.com/leonardob92/LBPD-1.0.git) provided by Dr. Leonardo Bonetti (leonardo.bonetti@clin.au.dk)
+1) LBPD functions (https://github.com/leonardob92/LBPD-1.0.git) provided by Dr. Leonardo Bonetti (leonardo.bonetti@clin.au.dk).
 
-(2) FieldTrip (http://www.fieldtriptoolbox.org/)
+2) FieldTrip (http://www.fieldtriptoolbox.org/).
 
-(3) SPM (https://www.fil.ion.ucl.ac.uk/spm/)
+3) SPM (https://www.fil.ion.ucl.ac.uk/spm/).
 
-(4) OSL toolbox (https://ohba-analysis.github.io/osl-docs/)
+4) OSL toolbox (https://ohba-analysis.github.io/osl-docs/).

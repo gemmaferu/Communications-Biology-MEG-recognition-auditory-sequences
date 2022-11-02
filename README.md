@@ -2,7 +2,7 @@
 
 This repository provides the code for the following paper:
 
-Rubio, G. F., Brattico, E., Kotz, S. A., Kringelbach, M. L., Vuust, P., & Bonetti, L. (2022). Magnetoencephalography recordings reveal the spatiotemporal dynamics of recognition memory for complex versus simple auditory sequences. Communications Biology.
+Fernández-Rubio, G., Brattico, E., Kotz, S. A., Kringelbach, M. L., Vuust, P., & Bonetti, L. (2022). Magnetoencephalography recordings reveal the spatiotemporal dynamics of recognition memory for complex versus simple auditory sequences. Communications Biology.
 
 Abstract:
 

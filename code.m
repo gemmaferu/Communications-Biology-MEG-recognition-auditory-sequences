@@ -1,13 +1,5 @@
 %% PAPER - "Magnetoencephalography recordings reveal the spatiotemporal dynamics of recognition memory for complex versus simple auditory sequences" (2022)
 
-%Gemma Fernández Rubio (gemmafr@clin.au.dk)
-
-%If you find this script useful, please cite the following papers:
-%Fernández Rubio, G., Brattico, E., Kotz, S. A., Kringelbach, M. L., Vuust, P., & Bonetti,  L. (2022). The spatiotemporal dynamics of recognition memory for complex versus simple auditory sequences. bioRxiv.
-%https://www.biorxiv.org/content/10.1101/2022.05.15.492038v1
-%Bonetti, L., Brattico, E., Carlomagno, F., Cabral, J., Stevner, A., Deco, G., Whybrow, P.C., Pearce, M., Pantazis, D., Vuust, P., & Kringelbach, M.L. (2022). Spatiotemporal whole-brain dynamics of auditory patterns recognition. bioRxiv.
-%https://www.biorxiv.org/content/10.1101/2020.06.23.165191v3
-
 %To use this script, you will need to download the following:
 %(1) LBPD functions (https://github.com/leonardob92/LBPD-1.0.git) provided by Dr. Leonardo Bonetti (leonardo.bonetti@clin.au.dk)
 %(2) FieldTrip (http://www.fieldtriptoolbox.org/)

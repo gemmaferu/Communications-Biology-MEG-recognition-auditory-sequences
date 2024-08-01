@@ -1,4 +1,4 @@
-# Communications-Biology-MEG-recognition-auditory-sequences
+# Magnetoencephalography recordings reveal the spatiotemporal dynamics of recognition memory for complex versus simple auditory sequences (2022)
 
 <h3> Abstract </h3>
 
